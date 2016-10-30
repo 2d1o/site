@@ -4,13 +4,17 @@ module.exports = {
     plugins: [
         "-fontsettings",
         "-lunr",
-        "-search"
+        "-search",
+        "ga",
     ],
 
     "pluginsConfig": {
         "sharing": {
             "google": true,
             "vk": true,
-        }
+        },
+        "ga": {
+            "token": "UA-54409006-3"
+        },
     },
 };

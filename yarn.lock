@@ -1099,6 +1099,10 @@ gitbook-plugin-fontsettings@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-fontsettings/-/gitbook-plugin-fontsettings-2.0.0.tgz#835f900ae3dd111086fe7ed4425ee3de024861ab"
 
+gitbook-plugin-ga:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-ga/-/gitbook-plugin-ga-1.0.1.tgz#c85d7b8c01640c4bb3dc3b231ab9fe74aa6e521b"
+
 gitbook-plugin-highlight@2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-highlight/-/gitbook-plugin-highlight-2.0.2.tgz#02650720ab594c799b9451785960fe417cad8046"
