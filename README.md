@@ -9,7 +9,7 @@
 
 ## Постоянные ведущие
 * Сергей Егоров ( ZeroTurnaround ) - https://twitter.com/bsideup
-* Киррилл Толкачёв ( Alfa-Lab ) - https://twitter.com/tolkv
+* Киррилл Толкачёв ( Альфа-Лаборатория ) - https://twitter.com/tolkv
 
 ## Последние выпуски:
 * [S01E01: Первый деплой - комом!](episodes/s01e01.md)
