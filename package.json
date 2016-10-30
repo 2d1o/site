@@ -3,7 +3,7 @@
     "scripts": {
         "serve": "./node_modules/gitbook-cli/bin/gitbook.js serve",
         "build": "./node_modules/gitbook-cli/bin/gitbook.js build",
-        "ghPages": "gh-pages -d _book"
+        "ghPages": "yarn build && gh-pages -d _book"
     },
     "dependencies": {
         "gitbook": "3.2.1",
