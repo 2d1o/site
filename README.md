@@ -8,8 +8,8 @@
 Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!
 
 ## Постоянные ведущие
-* Сергей Егоров ( ZeroTurnaround ) http://twitter.com/bsideup
-* Киррилл Толкачёв ( Alfa-Lab ) - http://twitter.com/tolkv
+* Сергей Егоров ( ZeroTurnaround ) - https://twitter.com/bsideup
+* Киррилл Толкачёв ( Alfa-Lab ) - https://twitter.com/tolkv
 
 ## Последние выпуски:
 * [S01E01: Первый деплой - комом!](episodes/s01e01.md)
