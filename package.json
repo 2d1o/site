@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "scripts": {
+        "serve": "./node_modules/gitbook-cli/bin/gitbook.js serve",
+        "build": "./node_modules/gitbook-cli/bin/gitbook.js build",
+        "ghPages": "gh-pages -d _book"
+    },
+    "dependencies": {
+        "gitbook": "3.2.1",
+        "gitbook-plugin-disqus": "=0.1.0"
+    },
+    "devDependencies": {
+        "gh-pages": "^0.11.0",
+        "gitbook-cli": "*"
+    }
+}
