@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+	<title>Two Devs One Ops</title>
+	<itunes:author>2016</itunes:author>
+	<link>http://2d1o.ru/</link>
+	<itunes:subtitle>про DevOps и вот это вот всё</itunes:subtitle>
+	<itunes:summary>Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!</itunes:summary>
+	<language>ru-ru</language>
+	<copyright> by 2016</copyright>
+	<itunes:owner>
+	    <itunes:name>2016</itunes:name>
+	    <itunes:email>bsideup+2d1o@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="" />
+	<itunes:category text="Technology">
+	    <itunes:category text="Technology - Podcasting"/>
+	</itunes:category>
+	<item>
+	    <title>Первый деплой - комом!</title>
+	    <itunes:author>2016</itunes:author>
+	    <itunes:subtitle></itunes:subtitle>
+	    <itunes:summary>Данный выпуск - пилотный, спонтанно записанный на конференции JokerConf в Санкт-Петербурге в ночь с 15 на 16 октября 2016 года :)</itunes:summary>
+	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E01/2d1o-s1e1.mp3" length="42576264" type="audio/x-m4a" />
+	    <pubDate>Sat, 15 Oct 2016 :: </pubDate>
+	    <itunes:category text="Technology">
+		    <itunes:category text="Technology - Podcasting"/>
+	    </itunes:category>
+	    <itunes:duration>00:55:28</itunes:duration>
+	    <itunes:explicit>no</itunes:explicit>
+	    <itunes:keywords>devops, podcast, new stack</itunes:keywords>
+	</item>
+</channel>
+</rss>
+	
