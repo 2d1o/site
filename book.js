@@ -2,9 +2,7 @@ module.exports = {
     title: '"Two Devs One Ops" podcast',
 
     "links": {
-        "sidebar": {
-            "Two Devs One Ops": "https://www.2d1o.ru/"
-        }
+        "home": null,
     },
 
     plugins: [
