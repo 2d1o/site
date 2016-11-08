@@ -1,0 +1,3 @@
+.summary a.custom-link[href^="https://www.gitbook.com/"] {
+    display: none !important
+}
