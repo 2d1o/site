@@ -10,6 +10,7 @@ module.exports = {
         "-lunr",
         "-search",
         "ga",
+        "github",
     ],
 
     "pluginsConfig": {
@@ -20,5 +21,8 @@ module.exports = {
         "ga": {
             "token": "UA-54409006-3"
         },
+        "github": {
+            url: "https://github.com/2d1o/site"
+        }
     },
 };
