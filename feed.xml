@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
 	<title>Two Devs One Ops</title>
-	<itunes:author>2016</itunes:author>
-	<link>http://2d1o.ru/</link>
+	<itunes:author>2d1o</itunes:author>
+	<link>https://www.2d1o.ru/</link>
 	<itunes:subtitle>про DevOps и вот это вот всё</itunes:subtitle>
 	<itunes:summary>Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!</itunes:summary>
 	<language>ru-ru</language>
-	<copyright> by 2016</copyright>
+	<copyright> by 2d1o</copyright>
 	<itunes:owner>
 	    <itunes:name>2016</itunes:name>
 	    <itunes:email>bsideup+2d1o@gmail.com</itunes:email>
@@ -18,7 +18,7 @@
 	</itunes:category>
 	<item>
 	    <title>Первый деплой - комом!</title>
-	    <itunes:author>2016</itunes:author>
+	    <itunes:author>2d1o</itunes:author>
 	    <itunes:subtitle></itunes:subtitle>
 	    <itunes:summary>Данный выпуск - пилотный, спонтанно записанный на конференции JokerConf в Санкт-Петербурге в ночь с 15 на 16 октября 2016 года :)</itunes:summary>
 	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E01/2d1o-s1e1.mp3" length="42576264" type="audio/x-m4a" />
@@ -27,6 +27,20 @@
 		    <itunes:category text="Technology - Podcasting"/>
 	    </itunes:category>
 	    <itunes:duration>00:53:36</itunes:duration>
+	    <itunes:explicit>no</itunes:explicit>
+	    <itunes:keywords>devops, podcast, new stack</itunes:keywords>
+	</item>
+	<item>
+	    <title>Атака клонов</title>
+	    <itunes:author>2d1o</itunes:author>
+	    <itunes:subtitle></itunes:subtitle>
+	    <itunes:summary>Эпизод называется "Атака клонов". Почему так, спросите Вы? Потому что за последнее время развелось огромное множество разных, похожих друг на друга систем оркестрации, и сегодня мы поговорим именно про них.</itunes:summary>
+	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E01/2d1o-s01e02.mp3" length="78271703" type="audio/x-m4a" />
+	    <pubDate>Mon, 21 Nov 2016 :: </pubDate>
+	    <itunes:category text="Technology">
+		    <itunes:category text="Technology - Podcasting"/>
+	    </itunes:category>
+	    <itunes:duration>01:29:36</itunes:duration>
 	    <itunes:explicit>no</itunes:explicit>
 	    <itunes:keywords>devops, podcast, new stack</itunes:keywords>
 	</item>
