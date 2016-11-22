@@ -31,10 +31,10 @@
 	    <itunes:keywords>devops, podcast, new stack</itunes:keywords>
 	</item>
 	<item>
-	    <title>Атака клонов</title>
+	    <title>Атака клонов и Шары Девопса</title>
 	    <itunes:author>2d1o</itunes:author>
 	    <itunes:subtitle></itunes:subtitle>
-	    <itunes:summary>Эпизод называется "Атака клонов". Почему так, спросите Вы? Потому что за последнее время развелось огромное множество разных, похожих друг на друга систем оркестрации, и сегодня мы поговорим именно про них.</itunes:summary>
+	    <itunes:summary>Эпизод называется "Атака клонов и Шары Девопса". Почему так, спросите Вы? Потому что за последнее время развелось огромное множество разных, похожих друг на друга систем оркестрации, и сегодня мы поговорим именно про них.</itunes:summary>
 	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E02/2d1o-s01e02.mp3" length="78271703" type="audio/x-m4a" />
 	    <pubDate>Mon, 21 Nov 2016 :: </pubDate>
 	    <itunes:category text="Technology">
