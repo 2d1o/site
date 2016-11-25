@@ -1,3 +1,5 @@
+"use strict";
+
 const RSS = require('rss');
 
 let feed;
@@ -10,7 +12,7 @@ module.exports = {
       const description = "Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!";
       feed = new RSS({
             title: "Two Devs One Ops",
-            description,
+            description: description,
             author: "2d1o",
             site_url: "https://www.2d1o.ru/",
             feed_url: "feed.xml",
