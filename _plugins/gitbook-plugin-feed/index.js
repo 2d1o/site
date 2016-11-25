@@ -4,6 +4,8 @@ const RSS = require('rss');
 
 let feed;
 
+const site_url = "https://www.2d1o.ru/";
+
 module.exports = {
   website: {},
 
@@ -14,15 +16,15 @@ module.exports = {
             title: "Two Devs One Ops",
             description: description,
             language: "ru-ru",
-            author: "2d1o",
-            site_url: "https://www.2d1o.ru/",
-            feed_url: "feed.xml",
+            site_url: site_url,
+            feed_url: site_url + "feed.xml",
             custom_namespaces: {
               itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd'
             },
             custom_elements: [
               {'itunes:subtitle': 'про DevOps и вот это вот всё'},
               {'itunes:author': '2d1o'},
+              {'itunes:explicit': "no"},
               {'itunes:summary': description},
               {'itunes:owner': [
                 {'itunes:name': '2d1o'},
@@ -54,7 +56,7 @@ module.exports = {
 
     'finish': function () {
       const xml = feed.xml({ indent: true });
-      return this.output.writeFile("feed.xml", xml);
+      return this.output.writeFile("feed.xml", xml, "utf-8");
     }
   }
 };
