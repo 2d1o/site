@@ -45,7 +45,8 @@ module.exports = {
           enclosure: Object.assign({ type: "audio/x-m4a" }, page.enclosure),
           custom_elements: [
               { 'pubDate': new Date(page.pubDate).toUTCString() },
-              { 'itunes:summary': page.content },
+              { 'itunes:summary': page.summary },
+              { 'itunes:description': page.content },
               { 'itunes:duration': page.duration }
             ]
         });
