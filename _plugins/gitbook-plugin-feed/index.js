@@ -13,6 +13,7 @@ module.exports = {
       feed = new RSS({
             title: "Two Devs One Ops",
             description: description,
+            language: "ru-ru",
             author: "2d1o",
             site_url: "https://www.2d1o.ru/",
             feed_url: "feed.xml",
@@ -53,7 +54,7 @@ module.exports = {
 
     'finish': function () {
       const xml = feed.xml({ indent: true });
-      return this.output.writeFile("feed_new.xml", xml);
+      return this.output.writeFile("feed.xml", xml);
     }
   }
 };
