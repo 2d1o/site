@@ -1,15 +1,11 @@
 {
     "private": true,
     "scripts": {
+        "postinstall": "./node_modules/gitbook-cli/bin/gitbook.js install",
         "serve": "./node_modules/gitbook-cli/bin/gitbook.js serve"
     },
-    "dependencies": {
-        "gitbook": "3.2.1",
-        "gitbook-plugin-disqus": "=0.1.0",
-        "gitbook-plugin-ga": "^1.0.1",
-        "gitbook-plugin-github": "^2.0.0"
-    },
+    "dependencies": {},
     "devDependencies": {
-        "gitbook-cli": "*"
+        "gitbook-cli": "=2.3.0"
     }
 }

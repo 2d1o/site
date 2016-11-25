@@ -11,6 +11,7 @@ module.exports = {
         "-search",
         "ga",
         "github",
+        "feed@file:./_plugins/gitbook-plugin-feed/",
     ],
 
     "pluginsConfig": {

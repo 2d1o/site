@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-feed",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=3.2.0"
+  },
+  "gitbook": {
+    "properties": {}
+  },
+  "dependencies": {
+    "rss": "=1.2.1"
+  }
+}
