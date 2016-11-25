@@ -43,10 +43,10 @@ module.exports = {
         feed.item({
           title: page.title,
           enclosure: Object.assign({ type: "audio/x-m4a" }, page.enclosure),
+          description: page.content,
           custom_elements: [
               { 'pubDate': new Date(page.pubDate).toUTCString() },
               { 'itunes:summary': page.summary },
-              { 'itunes:description': page.content },
               { 'itunes:duration': page.duration }
             ]
         });
