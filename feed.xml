@@ -22,7 +22,7 @@
 	    <itunes:subtitle></itunes:subtitle>
 	    <itunes:summary>Эпизод называется "Атака клонов и Шары Девопса". Почему так, спросите Вы? Потому что за последнее время развелось огромное множество разных, похожих друг на друга систем оркестрации, и сегодня мы поговорим именно про них.</itunes:summary>
 	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E02/2d1o-s01e02.mp3" length="78271703" type="audio/x-m4a" />
-	    <pubDate>Mon, 21 Nov 2016 :: </pubDate>
+	    <pubDate>Mon, 21 Nov 2016 12:00:00 EET</pubDate>
 	    <itunes:category text="Technology">
 		    <itunes:category text="Technology - Podcasting"/>
 	    </itunes:category>
@@ -36,7 +36,7 @@
 	    <itunes:subtitle></itunes:subtitle>
 	    <itunes:summary>Данный выпуск - пилотный, спонтанно записанный на конференции JokerConf в Санкт-Петербурге в ночь с 15 на 16 октября 2016 года :)</itunes:summary>
 	    <enclosure url="https://github.com/2d1o/site/releases/download/S01E01/2d1o-s1e1.mp3" length="42576264" type="audio/x-m4a" />
-	    <pubDate>Sat, 15 Oct 2016 :: </pubDate>
+	    <pubDate>Sat, 15 Oct 2016 12:00:00 EET</pubDate>
 	    <itunes:category text="Technology">
 		    <itunes:category text="Technology - Podcasting"/>
 	    </itunes:category>
