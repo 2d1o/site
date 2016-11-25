@@ -36,11 +36,12 @@ module.exports = {
 
     'page': function (page) {
       if (page.path.substr(0, 9) === "episodes/") {
+
         feed.item({
           title: page.title,
-          pubDate: page.pubDate,
           enclosure: Object.assign({ type: "audio/x-m4a" }, page.enclosure),
           custom_elements: [
+              { 'pubDate': new Date(page.pubDate).toUTCString() },
               { 'itunes:summary': page.content },
               { 'itunes:duration': page.duration }
             ]
