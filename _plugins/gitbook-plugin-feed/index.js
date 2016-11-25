@@ -46,7 +46,7 @@ module.exports = {
           description: page.content,
           custom_elements: [
               { 'pubDate': new Date(page.pubDate).toUTCString() },
-              { 'itunes:summary': page.summary },
+              { 'itunes:summary': page.content.substr(0, 4000) },
               { 'itunes:duration': page.duration }
             ]
         });
