@@ -12,6 +12,7 @@
 * Кирилл Толкачёв ( Альфа-Лаборатория ) - https://twitter.com/tolkv
 
 ## Последние выпуски:
+* [S02E01: Nginx и друзья](episodes/s02e01.md)
 * [S01E06: DevOpsDays Moscow 2017](episodes/s01e06.md)
 * [S01E05: Jenkins: Love/Hate](episodes/s01e05.md)
 * [S01E04: DevOps и салатики](episodes/s01e04.md)
