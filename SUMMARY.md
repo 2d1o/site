@@ -11,3 +11,4 @@
 * [S01E05: Jenkins: Love/Hate](episodes/s01e05.md)
 * [S01E06: DevOpsDays Moscow 2017](episodes/s01e06.md)
 * [S02E01: Nginx и друзья](episodes/s02e01.md)
+* [S02E02: Heisenbug Moscow 2017](episodes/s02e02.md)
