@@ -8,11 +8,11 @@
 Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!
 
 ## Постоянные ведущие
-* Сергей Егоров ( ? ) - https://twitter.com/bsideup
+* Сергей Егоров ( Uvita GmbH ) - https://twitter.com/bsideup
 * Кирилл Толкачёв ( Альфа-Лаборатория ) - https://twitter.com/tolkv
 
 ## Последние выпуски:
-* [S02E02: Heisenbug Moscow 2017](episodes/s02e02.md)
+* [S02E02: Jenkins в облаках и друзья](episodes/s02e02.md)
 * [S02E01: Nginx и друзья](episodes/s02e01.md)
 * [S01E06: DevOpsDays Moscow 2017](episodes/s01e06.md)
 * [S01E05: Jenkins: Love/Hate](episodes/s01e05.md)
